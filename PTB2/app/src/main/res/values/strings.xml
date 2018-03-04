@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problem7GiaiPhuongTrinhBac2</string>
+    <string name="title">Giải phương trình bậc nhất</string>
+    <string name="inputNumberA">Nhập số a: </string>
+    <string name="inputNumberB">Nhập số b: </string>
+    <string name="result">KẾT QUẢ</string>
+    <string name="back">BACK</string>
+</resources>
